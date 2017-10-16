@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./writeup_imgs/distribution.png "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
+[image2]: ./writeup_imgs/grayscale.png "Grayscaling"
 [image3]: ./writeup_imgs/augmented-imgs.png "Random Noise"
 [image4]: ./writeup_imgs/s01.jpg "No Passing"
 [image5]: ./writeup_imgs/s02.jpg "No Entry"
